@@ -1,0 +1,899 @@
+128034,Hubert Hurkacz,200624,Sebastian Korda,6-3 6-3
+128034,Hubert Hurkacz,106328,Christian Harrison,7-6(4) 6-4
+200624,Sebastian Korda,111815,Cameron Norrie,6-3 7-5
+106328,Christian Harrison,126149,Gianluca Mager,7-6(2) 6-4
+128034,Hubert Hurkacz,105933,Roberto Quiroz,6-4 6-4
+111815,Cameron Norrie,126207,Frances Tiafoe,6-0 3-6 6-4
+200624,Sebastian Korda,104545,John Isner,6-3 4-6 6-3
+106328,Christian Harrison,106426,Cristian Garin,7-6(3) 6-2
+126149,Gianluca Mager,105023,Sam Querrey,7-6(8) 6-1
+128034,Hubert Hurkacz,123755,Daniel Elahi Galan,6-2 6-2
+105933,Roberto Quiroz,103333,Ivo Karlovic,6-2 6-4
+126207,Frances Tiafoe,106216,Bjorn Fratangelo,6-4 3-6 6-1
+111815,Cameron Norrie,105173,Adrian Mannarino,6-2 7-5
+200624,Sebastian Korda,126205,Tommy Paul,4-6 6-3 6-2
+104545,John Isner,106329,Thiago Monteiro,6-4 7-6(4)
+106328,Christian Harrison,144869,Tomas Martin Etcheverry,6-4 6-2
+126149,Gianluca Mager,105992,Ryan Harrison,3-6 6-1 6-4
+105023,Sam Querrey,111456,Mackenzie McDonald,6-3 6-4
+123755,Daniel Elahi Galan,105413,Andrej Martin,6-4 6-4
+105933,Roberto Quiroz,111511,Noah Rubin,7-6(1) 6-3
+103333,Ivo Karlovic,104665,Pablo Andujar,6-3 5-7 6-4
+126207,Frances Tiafoe,105385,Donald Young,6-3 6-4
+106216,Bjorn Fratangelo,110536,Kevin King,6-2 6-2
+111815,Cameron Norrie,111574,Jc Aragone,6-2 6-1
+126205,Tommy Paul,106227,Ji Sung Nam,6-1 6-4
+200624,Sebastian Korda,126952,Soon Woo Kwon,6-4 6-4
+106329,Thiago Monteiro,105064,Thomaz Bellucci,6-3 7-5
+200282,Alex De Minaur,122330,Alexander Bublik,2-0 
+122330,Alexander Bublik,104871,Jeremy Chardy,6-4 6-7(4) 6-3
+200282,Alex De Minaur,105676,David Goffin,6-4 3-6 6-2
+122330,Alexander Bublik,126610,Matteo Berrettini,7-6(6) 6-4
+104871,Jeremy Chardy,105526,Jan Lennard Struff,4-6 6-2 7-6(8)
+200282,Alex De Minaur,105932,Nikoloz Basilashvili,6-2 6-4
+105676,David Goffin,105882,Stefano Travaglia,6-3 6-2
+126610,Matteo Berrettini,106220,Dimitar Kuzmanov,6-2 6-3
+122330,Alexander Bublik,106137,Tristan Lamasine,6-2 6-4
+104871,Jeremy Chardy,104926,Fabio Fognini,7-6(4) 6-7(1) 7-6(5)
+105526,Jan Lennard Struff,126409,Hugo Grenier,6-3 6-3
+105932,Nikoloz Basilashvili,123795,Altug Celikbilek,7-6(1) 6-4
+200282,Alex De Minaur,202090,Adrian Andreev,6-3 6-1
+105882,Stefano Travaglia,200325,Emil Ruusuvuori,7-6(5) 6-3
+105676,David Goffin,200095,Nicola Kuhn,6-0 6-2
+126610,Matteo Berrettini,144985,Ergi Kirkin,6-0 6-4
+106220,Dimitar Kuzmanov,111513,Laslo Djere,6-1 3-2 
+106137,Tristan Lamasine,106078,Egor Gerasimov,7-6(6) 6-2
+122330,Alexander Bublik,106099,Salvatore Caruso,6-3 6-3
+104926,Fabio Fognini,202398,Michael Vrbensky,6-4 7-6(4)
+104871,Jeremy Chardy,105430,Radu Albot,6-3 6-4
+126409,Hugo Grenier,144684,Alex Molcan,7-5 6-4
+105526,Jan Lennard Struff,200303,Pavel Kotov,6-4 6-3
+105932,Nikoloz Basilashvili,105063,Andrea Arnaboldi,4-6 7-5 6-1
+123795,Altug Celikbilek,200390,Kacper Zuk,7-6(7) 7-5
+202090,Adrian Andreev,104947,Marsel Ilhan,6-4 6-3
+200282,Alex De Minaur,104291,Malek Jaziri,6-2 6-1
+105882,Stefano Travaglia,200175,Miomir Kecmanovic,1-6 6-4 6-0
+200325,Emil Ruusuvuori,106210,Jiri Vesely,6-3 7-6(4)
+200095,Nicola Kuhn,104897,Matthias Bachinger,3-6 6-3 4-1 
+105676,David Goffin,105732,Pierre Hugues Herbert,3-6 7-5 6-0
+206173,Jannik Sinner,105882,Stefano Travaglia,7-6(4) 6-4
+105882,Stefano Travaglia,106329,Thiago Monteiro,6-3 6-4
+206173,Jannik Sinner,111575,Karen Khachanov,7-6(4) 4-6 7-6(4)
+106329,Thiago Monteiro,111442,Jordan Thompson,6-4 6-4
+105882,Stefano Travaglia,128034,Hubert Hurkacz,3-6 6-3 7-5
+206173,Jannik Sinner,200175,Miomir Kecmanovic,7-6(10) 6-4
+111575,Karen Khachanov,122298,Botic van de Zandschulp,6-7(6) 7-5 6-3
+106329,Thiago Monteiro,207989,Carlos Alcaraz Garfia,7-6(3) 6-3
+111442,Jordan Thompson,106408,Mario Vilella Martinez,6-4 6-4
+128034,Hubert Hurkacz,104655,Pablo Cuevas,7-5 7-5
+105882,Stefano Travaglia,122330,Alexander Bublik,6-1 7-5
+200175,Miomir Kecmanovic,106099,Salvatore Caruso,7-6(5) 5-7 7-5
+206173,Jannik Sinner,105379,Aljaz Bedene,7-6(6) 6-2
+122298,Botic van de Zandschulp,124187,Reilly Opelka,7-6(6) 7-6(4)
+111575,Karen Khachanov,104731,Kevin Anderson,6-3 7-6(5)
+207989,Carlos Alcaraz Garfia,105676,David Goffin,6-3 6-3
+106329,Thiago Monteiro,105051,Matthew Ebden,6-7(4) 6-4 6-3
+111442,Jordan Thompson,105732,Pierre Hugues Herbert,6-4 3-6 6-3
+106408,Mario Vilella Martinez,105932,Nikoloz Basilashvili,7-5 6-3
+128034,Hubert Hurkacz,111453,Mikael Torpegaard,6-4 6-3
+104655,Pablo Cuevas,104898,Robin Haase,7-5 6-3
+105882,Stefano Travaglia,105023,Sam Querrey,6-7(7) 6-3 6-4
+122330,Alexander Bublik,106331,Christopher O'Connell,7-6(2) 6-7(6) 6-4
+200175,Miomir Kecmanovic,126952,Soon Woo Kwon,6-3 6-4
+106099,Salvatore Caruso,105815,Tennys Sandgren,6-4 6-7(2) 6-1
+105379,Aljaz Bedene,208013,Dane Sweeny,6-0 6-4
+206173,Jannik Sinner,126846,Aleksandar Vukic,6-2 6-4
+124187,Reilly Opelka,104660,Sergiy Stakhovsky,7-6(8) 6-4
+122298,Botic van de Zandschulp,111794,Kamil Majchrzak,6-4 3-6 6-4
+104731,Kevin Anderson,105649,Cedrik Marcel Stebe,6-4 6-2
+111575,Karen Khachanov,126845,Max Purcell,7-6(5) 6-3
+207989,Carlos Alcaraz Garfia,105226,Attila Balazs,2-2 
+105051,Matthew Ebden,105643,Federico Delbonis,6-3 7-6(6)
+106329,Thiago Monteiro,126573,Thomas Fancutt,6-4 6-4
+111442,Jordan Thompson,126149,Gianluca Mager,4-6 6-4 6-3
+105732,Pierre Hugues Herbert,202195,Maxime Cressy,6-7(2) 7-6(2) 7-5
+106408,Mario Vilella Martinez,105870,Yannick Hanfmann,7-6(2) 6-4
+111453,Mikael Torpegaard,124079,Pedro Martinez,6-4 7-5
+104898,Robin Haase,106293,Kimmer Coppejans,6-4 6-3
+104655,Pablo Cuevas,104665,Pablo Andujar,6-4 6-2
+105023,Sam Querrey,105967,Henri Laaksonen,4-6 7-6(5) 6-0
+105882,Stefano Travaglia,106148,Roberto Carballes Baena,2-6 7-5 7-6(2)
+106331,Christopher O'Connell,136440,Dominik Koepfer,5-7 6-4 6-1
+126952,Soon Woo Kwon,105413,Andrej Martin,6-3 6-7(5) 7-6(4)
+106099,Salvatore Caruso,104312,Andreas Seppi,7-5 7-6(5)
+105815,Tennys Sandgren,105441,John Patrick Smith,6-3 5-7 6-4
+105379,Aljaz Bedene,106034,Yasutaka Uchiyama,7-6(5) 7-6(5)
+208013,Dane Sweeny,106227,Ji Sung Nam,7-6(4) 7-5
+126846,Aleksandar Vukic,104229,Yen Hsun Lu,6-4 7-5
+104660,Sergiy Stakhovsky,126128,Roman Safiullin,6-7(5) 6-4 6-3
+122298,Botic van de Zandschulp,209262,Tristan Schoolkate,6-4 7-5
+111794,Kamil Majchrzak,111513,Laslo Djere,6-3 6-4
+104731,Kevin Anderson,103852,Feliciano Lopez,6-4 7-5
+105649,Cedrik Marcel Stebe,106198,Hugo Dellien,6-4 6-4
+126845,Max Purcell,105613,Norbert Gombos,6-4 6-4
+105554,Daniel Evans,200000,Felix Auger Aliassime,6-2 6-3
+105554,Daniel Evans,104871,Jeremy Chardy,6-2 6-2
+200000,Felix Auger Aliassime,144895,Corentin Moutet,6-1 6-2
+104871,Jeremy Chardy,104527,Stan Wawrinka,6-3 6-3
+105554,Daniel Evans,106432,Borna Coric,7-5 7-6(1)
+200000,Felix Auger Aliassime,106210,Jiri Vesely,7-6(3) 0-0 
+144895,Corentin Moutet,105777,Grigor Dimitrov,7-5 6-2
+104527,Stan Wawrinka,106109,Alex Bolt,6-4 4-6 7-6(5)
+104871,Jeremy Chardy,126203,Taylor Fritz,6-2 6-4
+106432,Borna Coric,106401,Nick Kyrgios,6-3 6-4
+105554,Daniel Evans,106218,Marcos Giron,6-4 7-6(4)
+106210,Jiri Vesely,105575,Ricardas Berankis,6-4 6-2
+200000,Felix Auger Aliassime,106078,Egor Gerasimov,3-6 6-3 7-6(6)
+144895,Corentin Moutet,105902,James Duckworth,7-6(4) 6-4
+105777,Grigor Dimitrov,200615,Alexei Popyrin,6-4 6-7(5) 6-3
+104527,Stan Wawrinka,105062,Mikhail Kukushkin,4-6 6-3 6-1
+106109,Alex Bolt,111456,Mackenzie McDonald,6-4 6-7(7) 7-5
+104871,Jeremy Chardy,104468,Gilles Simon,6-3 6-4
+126203,Taylor Fritz,105948,Federico Coria,6-2 6-1
+106432,Borna Coric,200325,Emil Ruusuvuori,7-5 6-4
+106401,Nick Kyrgios,117358,Harry Bourchier,6-2 7-6(7)
+106218,Marcos Giron,105173,Adrian Mannarino,6-3 6-4
+105554,Daniel Evans,105155,Pedro Sousa,6-3 7-5
+106210,Jiri Vesely,134770,Casper Ruud,5-7 7-6(4) 6-3
+105575,Ricardas Berankis,106186,Jason Kubler,7-6(2) 7-5
+106078,Egor Gerasimov,105916,Marton Fucsovics,6-3 1-6 6-3
+200000,Felix Auger Aliassime,105216,Yuichi Sugita,6-3 6-1
+105902,James Duckworth,200005,Ugo Humbert,7-6(6) 6-4
+144895,Corentin Moutet,105077,Albert Ramos,6-4 6-4
+200615,Alexei Popyrin,126205,Tommy Paul,6-4 6-3
+105777,Grigor Dimitrov,106302,Andrew Harris,6-3 6-3
+105062,Mikhail Kukushkin,106228,Juan Ignacio Londero,4-6 7-5 6-2
+106109,Alex Bolt,106423,Thanasi Kokkinakis,2-6 6-4 6-3
+111456,Mackenzie McDonald,104755,Richard Gasquet,7-6(2) 7-5
+104871,Jeremy Chardy,105227,Marin Cilic,2-6 6-3 7-6(8)
+104468,Gilles Simon,111200,Elias Ymer,6-4 6-4
+105948,Federico Coria,105430,Radu Albot,7-6(3) 6-4
+200325,Emil Ruusuvuori,104678,Viktor Troicki,6-3 6-4
+117358,Harry Bourchier,117360,Marc Polmans,6-4 6-4
+106401,Nick Kyrgios,124186,Alexandre Muller,3-6 6-4 7-6(4)
+105173,Adrian Mannarino,144707,Mikael Ymer,7-5 6-2
+106218,Marcos Giron,111581,Michael Mmoh,6-1 7-5
+105155,Pedro Sousa,111454,Li Tu,6-4 7-6(5)
+106210,Jiri Vesely,106393,Frederico Ferreira Silva,6-4 6-4
+105575,Ricardas Berankis,111576,Sumit Nagal,6-2 6-2
+106186,Jason Kubler,132283,Lorenzo Sonego,3-6 6-3 6-4
+105916,Marton Fucsovics,106065,Marco Cecchinato,7-6(8) 6-3
+106078,Egor Gerasimov,144750,Lloyd Harris,6-3 7-5
+105216,Yuichi Sugita,111460,Quentin Halys,3-6 7-6(3) 7-5
+105902,James Duckworth,207830,Tomas Machac,6-3 6-4
+144895,Corentin Moutet,126207,Frances Tiafoe,3-6 6-4 6-4
+105077,Albert Ramos,106425,Blake Mott,6-2 6-4
+126205,Tommy Paul,111815,Cameron Norrie,4-6 7-6(2) 6-3
+200615,Alexei Popyrin,127339,Borna Gojo,6-7(8) 7-6(2) 7-6(7)
+106302,Andrew Harris,106121,Taro Daniel,5-7 6-4 7-5
+106421,Daniil Medvedev,126610,Matteo Berrettini,6-4 6-2
+126094,Andrey Rublev,104926,Fabio Fognini,6-1 6-2
+106421,Daniil Medvedev,100644,Alexander Zverev,3-6 6-3 7-5
+126094,Andrey Rublev,105526,Jan Lennard Struff,3-6 6-1 6-2
+126610,Matteo Berrettini,105138,Roberto Bautista Agut,6-3 7-5
+104926,Fabio Fognini,105807,Pablo Carreno Busta,6-2 1-6 6-4
+104925,Novak Djokovic,100644,Alexander Zverev,6-7(3) 6-2 7-5
+105526,Jan Lennard Struff,105583,Dusan Lajovic,3-6 6-3 6-4
+104925,Novak Djokovic,133430,Denis Shapovalov,7-5 7-5
+105683,Milos Raonic,105583,Dusan Lajovic,6-3 6-4
+100644,Alexander Zverev,133430,Denis Shapovalov,6-7(5) 6-3 7-6(4)
+105526,Jan Lennard Struff,105683,Milos Raonic,7-6(4) 7-6(2)
+126774,Stefanos Tsitsipas,105138,Roberto Bautista Agut,7-5 7-5
+105807,Pablo Carreno Busta,133018,Michail Pervolarakis,6-3 6-4
+105138,Roberto Bautista Agut,200282,Alex De Minaur,4-6 6-4 6-4
+105807,Pablo Carreno Busta,105357,John Millman,6-2 6-4
+126774,Stefanos Tsitsipas,200282,Alex De Minaur,6-3 7-5
+105357,John Millman,133018,Michail Pervolarakis,6-2 6-3
+126610,Matteo Berrettini,106233,Dominic Thiem,6-2 6-4
+110602,Dennis Novak,104926,Fabio Fognini,6-3 6-2
+106233,Dominic Thiem,105332,Benoit Paire,6-1 0-0 
+103917,Nicolas Mahut,110602,Dennis Novak,7-6(2) 6-2
+126610,Matteo Berrettini,104792,Gael Monfils,6-4 6-2
+104926,Fabio Fognini,105332,Benoit Paire,6-1 7-6(2)
+106421,Daniil Medvedev,106043,Diego Schwartzman,7-5 6-3
+126094,Andrey Rublev,105550,Guido Pella,6-1 6-2
+106421,Daniil Medvedev,105453,Kei Nishikori,6-2 6-4
+126094,Andrey Rublev,106415,Yoshihito Nishioka,6-1 6-3
+106043,Diego Schwartzman,105453,Kei Nishikori,6-1 6-7(4) 6-0
+105550,Guido Pella,106415,Yoshihito Nishioka,6-3 7-6(4)
+104925,Novak Djokovic,104871,Jeremy Chardy,6-3 6-1 6-2
+126207,Frances Tiafoe,105882,Stefano Travaglia,7-6(5) 6-2 6-2
+124187,Reilly Opelka,104229,Yen Hsun Lu,6-3 7-6(2) 6-3
+126203,Taylor Fritz,105077,Albert Ramos,7-6(6) 3-6 6-2 7-6(6)
+104527,Stan Wawrinka,105155,Pedro Sousa,6-3 6-2 6-4
+105916,Marton Fucsovics,117360,Marc Polmans,4-6 6-3 6-1 6-7(3) 6-3
+144895,Corentin Moutet,105357,John Millman,6-4 6-7(4) 3-6 6-2 6-3
+105683,Milos Raonic,105948,Federico Coria,6-3 6-3 6-2
+200325,Emil Ruusuvuori,104792,Gael Monfils,3-6 6-4 7-5 3-6 6-3
+124079,Pedro Martinez,106415,Yoshihito Nishioka,6-7(3) 6-1 6-1 6-1
+122330,Alexander Bublik,105379,Aljaz Bedene,6-4 7-5 5-7 6-4
+105583,Dusan Lajovic,104660,Sergiy Stakhovsky,5-7 6-4 6-3 5-7 6-4
+105173,Adrian Mannarino,110602,Dennis Novak,6-2 6-4 7-6(2)
+200175,Miomir Kecmanovic,111794,Kamil Majchrzak,6-2 6-4 6-3
+202195,Maxime Cressy,106121,Taro Daniel,7-6(1) 7-6(3) 6-4
+100644,Alexander Zverev,106218,Marcos Giron,6-7(8) 7-6(5) 6-3 6-2
+106233,Dominic Thiem,105062,Mikhail Kukushkin,7-6(2) 6-2 6-3
+136440,Dominik Koepfer,106198,Hugo Dellien,7-5 6-2 6-4
+106401,Nick Kyrgios,106393,Frederico Ferreira Silva,6-4 6-4 6-4
+200005,Ugo Humbert,106034,Yasutaka Uchiyama,6-3 6-4 6-7(3) 6-3
+105777,Grigor Dimitrov,105227,Marin Cilic,6-4 6-2 7-6(5)
+106109,Alex Bolt,105613,Norbert Gombos,6-2 6-2 4-6 6-3
+106210,Jiri Vesely,106293,Kimmer Coppejans,6-4 3-6 6-7(3) 6-3 6-3
+105807,Pablo Carreno Busta,105453,Kei Nishikori,7-5 7-6(4) 6-2
+133430,Denis Shapovalov,206173,Jannik Sinner,3-6 6-3 6-2 4-6 6-4
+106071,Bernard Tomic,105216,Yuichi Sugita,3-6 6-1 4-1 
+105902,James Duckworth,106000,Damir Dzumhur,6-3 6-2 6-4
+200000,Felix Auger Aliassime,105649,Cedrik Marcel Stebe,6-2 6-4 6-2
+106078,Egor Gerasimov,105332,Benoit Paire,6-2 2-6 7-6(5) 7-5
+106234,Aslan Karatsev,126149,Gianluca Mager,6-3 6-3 6-4
+124186,Alexandre Muller,106228,Juan Ignacio Londero,4-6 6-3 6-0 6-3
+106043,Diego Schwartzman,111200,Elias Ymer,7-6(3) 6-4 2-6 6-2
+126094,Andrey Rublev,105870,Yannick Hanfmann,6-3 6-3 6-4
+106329,Thiago Monteiro,105413,Andrej Martin,7-6(6) 6-1 6-2
+103852,Feliciano Lopez,111454,Li Tu,6-7(1) 6-4 7-6(4) 6-4
+132283,Lorenzo Sonego,105023,Sam Querrey,7-5 6-4 6-4
+134770,Casper Ruud,111442,Jordan Thompson,6-3 6-3 2-1 
+126205,Tommy Paul,105932,Nikoloz Basilashvili,6-4 7-6(0) 6-4
+106331,Christopher O'Connell,105526,Jan Lennard Struff,7-6(2) 7-6(5) 6-1
+105430,Radu Albot,105138,Roberto Bautista Agut,6-7(1) 6-0 6-4 7-6(5)
+200615,Alexei Popyrin,105676,David Goffin,3-6 6-4 6-7(4) 7-6(6) 6-3
+144750,Lloyd Harris,111453,Mikael Torpegaard,4-6 6-3 6-2 6-2
+111456,Mackenzie McDonald,106065,Marco Cecchinato,3-6 6-3 6-2 6-2
+106432,Borna Coric,105550,Guido Pella,6-3 7-6(5) 7-5
+105936,Filip Krajinovic,104898,Robin Haase,7-6(4) 6-3 4-6 6-2
+104665,Pablo Andujar,111460,Quentin Halys,6-4 7-5 7-5
+106148,Roberto Carballes Baena,105226,Attila Balazs,7-5 3-6 6-2 6-3
+106421,Daniil Medvedev,105577,Vasek Pospisil,6-2 6-2 6-4
+126774,Stefanos Tsitsipas,104468,Gilles Simon,6-1 6-2 6-1
+106423,Thanasi Kokkinakis,126952,Soon Woo Kwon,6-4 6-1 6-1
+207989,Carlos Alcaraz Garfia,122298,Botic van de Zandschulp,6-1 6-4 6-4
+144707,Mikael Ymer,128034,Hubert Hurkacz,3-6 6-3 3-6 7-5 6-3
+111575,Karen Khachanov,126846,Aleksandar Vukic,6-3 6-7(4) 7-6(2) 6-4
+105575,Ricardas Berankis,111576,Sumit Nagal,6-2 7-5 6-3
+207830,Tomas Machac,106408,Mario Vilella Martinez,6-7(5) 7-5 6-0 3-0 
+126610,Matteo Berrettini,104731,Kevin Anderson,7-6(9) 7-5 6-3
+104926,Fabio Fognini,105732,Pierre Hugues Herbert,6-4 6-2 6-3
+106099,Salvatore Caruso,105967,Henri Laaksonen,6-2 6-4 6-3
+104655,Pablo Cuevas,104312,Andreas Seppi,6-4 4-6 6-2 6-2
+200282,Alex De Minaur,105815,Tennys Sandgren,7-5 6-1 6-1
+111815,Cameron Norrie,105554,Daniel Evans,6-4 4-6 6-4 7-5
+126128,Roman Safiullin,125802,Ilya Ivashka,6-4 6-3 6-4
+111581,Michael Mmoh,104678,Viktor Troicki,7-6(3) 6-7(3) 3-6 7-6(3) 7-5
+104745,Rafael Nadal,111513,Laslo Djere,6-3 6-4 6-1
+104925,Novak Djokovic,126207,Frances Tiafoe,6-3 6-7(3) 7-6(2) 6-3
+126203,Taylor Fritz,124187,Reilly Opelka,4-6 7-6(6) 6-7(4) 7-6(5) 6-2
+105916,Marton Fucsovics,104527,Stan Wawrinka,7-5 6-1 4-6 2-6 7-6(9)
+105683,Milos Raonic,144895,Corentin Moutet,6-7(1) 6-1 6-1 6-4
+124079,Pedro Martinez,200325,Emil Ruusuvuori,1-6 6-3 6-2 7-6(5)
+105583,Dusan Lajovic,122330,Alexander Bublik,6-4 7-6(4) 4-6 6-3
+105173,Adrian Mannarino,200175,Miomir Kecmanovic,6-1 6-2 6-4
+100644,Alexander Zverev,202195,Maxime Cressy,7-5 6-4 6-3
+106233,Dominic Thiem,136440,Dominik Koepfer,6-4 6-0 6-2
+106401,Nick Kyrgios,200005,Ugo Humbert,5-7 6-4 3-6 7-6(2) 6-4
+105777,Grigor Dimitrov,106109,Alex Bolt,7-6(1) 6-1 6-2
+105807,Pablo Carreno Busta,106210,Jiri Vesely,6-3 7-6(3) 2-6 6-4
+133430,Denis Shapovalov,106071,Bernard Tomic,6-1 6-3 6-2
+200000,Felix Auger Aliassime,105902,James Duckworth,6-4 6-1 6-2
+106234,Aslan Karatsev,106078,Egor Gerasimov,6-0 6-1 6-0
+106043,Diego Schwartzman,124186,Alexandre Muller,6-2 6-0 6-3
+126094,Andrey Rublev,106329,Thiago Monteiro,6-4 6-4 7-6(8)
+103852,Feliciano Lopez,132283,Lorenzo Sonego,5-7 3-6 6-3 7-5 6-4
+134770,Casper Ruud,126205,Tommy Paul,3-6 6-2 6-4 7-5
+105430,Radu Albot,106331,Christopher O'Connell,6-2 7-5 7-6(8)
+144750,Lloyd Harris,200615,Alexei Popyrin,6-2 1-6 6-3 6-7(5) 6-3
+111456,Mackenzie McDonald,106432,Borna Coric,6-4 6-2 4-6 6-4
+105936,Filip Krajinovic,104665,Pablo Andujar,6-2 5-7 6-1 6-4
+106421,Daniil Medvedev,106148,Roberto Carballes Baena,6-2 7-5 6-1
+126774,Stefanos Tsitsipas,106423,Thanasi Kokkinakis,6-7(5) 6-4 6-1 6-7(5) 6-4
+144707,Mikael Ymer,207989,Carlos Alcaraz Garfia,2-6 6-4 6-4 7-6(5)
+111575,Karen Khachanov,105575,Ricardas Berankis,6-2 6-4 6-4
+126610,Matteo Berrettini,207830,Tomas Machac,6-3 6-2 4-6 6-3
+104926,Fabio Fognini,106099,Salvatore Caruso,4-6 6-2 2-6 6-3 7-6(12)
+200282,Alex De Minaur,104655,Pablo Cuevas,6-3 6-3 7-5
+111815,Cameron Norrie,126128,Roman Safiullin,3-6 7-5 6-3 7-6(3)
+104745,Rafael Nadal,111581,Michael Mmoh,6-1 6-4 6-2
+104925,Novak Djokovic,126203,Taylor Fritz,7-6(1) 6-4 3-6 4-6 6-2
+105683,Milos Raonic,105916,Marton Fucsovics,7-6(2) 5-7 6-2 6-2
+105583,Dusan Lajovic,124079,Pedro Martinez,6-7(6) 7-5 6-1 6-4
+100644,Alexander Zverev,105173,Adrian Mannarino,6-3 6-3 6-1
+106233,Dominic Thiem,106401,Nick Kyrgios,4-6 4-6 6-3 6-4 6-4
+105777,Grigor Dimitrov,105807,Pablo Carreno Busta,6-0 1-0 
+200000,Felix Auger Aliassime,133430,Denis Shapovalov,7-5 7-5 6-3
+106234,Aslan Karatsev,106043,Diego Schwartzman,6-3 6-3 6-3
+126094,Andrey Rublev,103852,Feliciano Lopez,7-5 6-2 6-3
+134770,Casper Ruud,105430,Radu Albot,6-1 5-7 6-4 6-4
+111456,Mackenzie McDonald,144750,Lloyd Harris,7-6(7) 6-1 6-4
+106421,Daniil Medvedev,105936,Filip Krajinovic,6-3 6-3 4-6 3-6 6-0
+126774,Stefanos Tsitsipas,144707,Mikael Ymer,6-4 6-1 6-1
+126610,Matteo Berrettini,111575,Karen Khachanov,7-6(1) 7-6(5) 7-6(5)
+104926,Fabio Fognini,200282,Alex De Minaur,6-4 6-3 6-4
+104745,Rafael Nadal,111815,Cameron Norrie,7-5 6-2 7-5
+104925,Novak Djokovic,105683,Milos Raonic,7-6(4) 4-6 6-1 6-4
+100644,Alexander Zverev,105583,Dusan Lajovic,6-4 7-6(5) 6-3
+105777,Grigor Dimitrov,106233,Dominic Thiem,6-4 6-4 6-0
+106234,Aslan Karatsev,200000,Felix Auger Aliassime,3-6 1-6 6-3 6-3 6-4
+126094,Andrey Rublev,134770,Casper Ruud,6-2 7-6(3) 0-0 
+106421,Daniil Medvedev,111456,Mackenzie McDonald,6-4 6-2 6-3
+126774,Stefanos Tsitsipas,126610,Matteo Berrettini,6-3 6-3
+104745,Rafael Nadal,104926,Fabio Fognini,6-3 6-4 6-2
+104925,Novak Djokovic,100644,Alexander Zverev,6-7(6) 6-2 6-4 7-6(6)
+106234,Aslan Karatsev,105777,Grigor Dimitrov,2-6 6-4 6-1 6-2
+106421,Daniil Medvedev,126094,Andrey Rublev,7-5 6-3 6-2
+126774,Stefanos Tsitsipas,104745,Rafael Nadal,3-6 2-6 7-6(4) 6-4 7-5
+104925,Novak Djokovic,106234,Aslan Karatsev,6-3 6-4 6-2
+106421,Daniil Medvedev,126774,Stefanos Tsitsipas,6-4 6-2 7-5
+104925,Novak Djokovic,106421,Daniil Medvedev,7-5 6-2 6-2
+207678,Juan Manuel Cerundolo,105077,Albert Ramos,6-0 2-6 6-2
+105077,Albert Ramos,105487,Facundo Bagnis,7-5 5-7 6-3
+207678,Juan Manuel Cerundolo,105948,Federico Coria,6-4 4-6 6-2
+105077,Albert Ramos,106043,Diego Schwartzman,6-1 4-6 6-3
+105487,Facundo Bagnis,106075,Jozef Kovalik,6-1 6-2
+207678,Juan Manuel Cerundolo,106329,Thiago Monteiro,6-2 2-6 6-3
+105948,Federico Coria,105332,Benoit Paire,6-3 6-2
+106043,Diego Schwartzman,106065,Marco Cecchinato,6-2 6-2
+105077,Albert Ramos,144869,Tomas Martin Etcheverry,2-6 7-6(5) 7-5
+106075,Jozef Kovalik,144642,Marcelo Tomas Barrios Vera,4-6 6-2 6-3
+105487,Facundo Bagnis,105643,Federico Delbonis,6-4 7-5
+106329,Thiago Monteiro,106148,Roberto Carballes Baena,6-3 6-4
+207678,Juan Manuel Cerundolo,200175,Miomir Kecmanovic,6-7(3) 7-5 6-2
+105948,Federico Coria,202103,Francisco Cerundolo,1-6 6-2 6-4
+105332,Benoit Paire,111797,Nicolas Jarry,6-2 6-4
+106065,Marco Cecchinato,106198,Hugo Dellien,6-2 4-6 6-1
+144869,Tomas Martin Etcheverry,105413,Andrej Martin,6-3 7-6(4)
+105077,Albert Ramos,106228,Juan Ignacio Londero,4-6 6-2 6-2
+106075,Jozef Kovalik,123755,Daniel Elahi Galan,6-2 1-6 6-3
+105487,Facundo Bagnis,106044,Nicolas Kicker,6-1 6-4
+105643,Federico Delbonis,105155,Pedro Sousa,6-4 6-4
+106329,Thiago Monteiro,110778,Joao Menezes,6-3 6-3
+106148,Roberto Carballes Baena,105311,Joao Sousa,6-3 6-1
+207678,Juan Manuel Cerundolo,205734,Thiago Seyboth Wild,7-5 7-6(3)
+105948,Federico Coria,136440,Dominik Koepfer,6-1 6-4
+202103,Francisco Cerundolo,126149,Gianluca Mager,6-7(3) 6-1 6-4
+111797,Nicolas Jarry,144719,Jaume Munar,5-7 7-6(5) 6-4
+200615,Alexei Popyrin,122330,Alexander Bublik,4-6 6-0 6-2
+122330,Alexander Bublik,105430,Radu Albot,2-6 6-3 6-4
+200615,Alexei Popyrin,105227,Marin Cilic,7-6(5) 7-6(2)
+105430,Radu Albot,105173,Adrian Mannarino,6-3 6-4
+122330,Alexander Bublik,106415,Yoshihito Nishioka,6-3 6-2
+105227,Marin Cilic,126952,Soon Woo Kwon,6-2 2-6 7-5
+200615,Alexei Popyrin,105051,Matthew Ebden,6-4 7-6(7)
+105173,Adrian Mannarino,105406,Roberto Marcora,6-3 7-5
+105430,Radu Albot,105870,Yannick Hanfmann,6-7(2) 7-6(7) 6-3
+122330,Alexander Bublik,123795,Altug Celikbilek,6-2 6-2
+106415,Yoshihito Nishioka,202195,Maxime Cressy,6-4 6-2
+126952,Soon Woo Kwon,106034,Yasutaka Uchiyama,6-3 6-4
+105227,Marin Cilic,106121,Taro Daniel,7-5 6-4
+200615,Alexei Popyrin,202090,Adrian Andreev,6-1 5-7 6-3
+105051,Matthew Ebden,105357,John Millman,6-4 6-1
+105406,Roberto Marcora,105208,Ernests Gulbis,7-5 6-4
+105870,Yannick Hanfmann,105902,James Duckworth,6-2 6-4
+105430,Radu Albot,105441,John Patrick Smith,6-2 3-6 6-1
+123795,Altug Celikbilek,208278,Shintaro Mochizuki,6-0 6-4
+202195,Maxime Cressy,105359,Jason Jung,7-6(4) 6-2
+106415,Yoshihito Nishioka,111581,Michael Mmoh,6-2 3-6 6-3
+126952,Soon Woo Kwon,111515,Thai Son Kwiatkowski,4-6 6-3 6-4
+106034,Yasutaka Uchiyama,117360,Marc Polmans,6-4 2-6 6-4
+106121,Taro Daniel,106368,Ramkumar Ramanathan,6-3 6-7(3) 6-3
+202090,Adrian Andreev,144750,Lloyd Harris,1-6 6-3 6-4
+200615,Alexei Popyrin,111153,Christopher Eubanks,7-6(5) 7-6(5)
+105051,Matthew Ebden,106026,Yuki Bhambri,6-3 7-6(3)
+105676,David Goffin,105138,Roberto Bautista Agut,5-7 6-4 6-2
+105138,Roberto Bautista Agut,105376,Peter Gojowczyk,7-5 6-1
+105676,David Goffin,106078,Egor Gerasimov,6-4 2-6 6-4
+105138,Roberto Bautista Agut,200005,Ugo Humbert,6-3 6-3
+105376,Peter Gojowczyk,110602,Dennis Novak,6-4 6-1
+106078,Egor Gerasimov,200221,Alejandro Davidovich Fokina,4-6 6-4 7-5
+105676,David Goffin,132283,Lorenzo Sonego,6-4 6-4
+105138,Roberto Bautista Agut,106296,Gregoire Barrere,6-0 6-3
+200005,Ugo Humbert,134868,Tallon Griekspoor,6-7(4) 7-6(5) 7-6(5)
+110602,Dennis Novak,105583,Dusan Lajovic,7-6(5) 7-5
+105376,Peter Gojowczyk,106210,Jiri Vesely,6-7(3) 7-6(4) 6-3
+106078,Egor Gerasimov,105379,Aljaz Bedene,6-4 7-6(4)
+200221,Alejandro Davidovich Fokina,128034,Hubert Hurkacz,7-5 6-2
+132283,Lorenzo Sonego,200624,Sebastian Korda,6-3 6-2
+105676,David Goffin,126127,Benjamin Bonzi,4-6 6-4 7-5
+106296,Gregoire Barrere,105932,Nikoloz Basilashvili,6-4 6-4
+134868,Tallon Griekspoor,106218,Marcos Giron,6-2 6-7(5) 6-3
+200005,Ugo Humbert,105613,Norbert Gombos,6-3 7-6(3)
+110602,Dennis Novak,104468,Gilles Simon,7-6(5) 1-6 6-3
+106210,Jiri Vesely,144707,Mikael Ymer,6-1 6-1
+105376,Peter Gojowczyk,105526,Jan Lennard Struff,6-3 6-4
+105379,Aljaz Bedene,206173,Jannik Sinner,3-6 6-2 7-6(3)
+106078,Egor Gerasimov,104918,Andy Murray,7-6(8) 6-1
+200221,Alejandro Davidovich Fokina,126523,Bernabe Zapata Miralles,7-6(3) 5-7 6-2
+132283,Lorenzo Sonego,200384,Hugo Gaston,6-3 6-7(7) 6-1
+200624,Sebastian Korda,104542,Jo-Wilfried Tsonga,6-4 6-2
+126127,Benjamin Bonzi,106298,Lucas Pouille,7-6(6) 6-2
+106043,Diego Schwartzman,202103,Francisco Cerundolo,6-1 6-2
+106043,Diego Schwartzman,200175,Miomir Kecmanovic,6-0 6-4
+202103,Francisco Cerundolo,105077,Albert Ramos,7-6(5) 3-6 6-2
+106043,Diego Schwartzman,144719,Jaume Munar,6-2 7-5
+200175,Miomir Kecmanovic,111513,Laslo Djere,6-4 7-6(6)
+202103,Francisco Cerundolo,104665,Pablo Andujar,1-6 6-3 6-2
+105077,Albert Ramos,111576,Sumit Nagal,4-6 6-2 7-5
+106043,Diego Schwartzman,127760,Lukas Klein,6-4 6-2
+144719,Jaume Munar,126207,Frances Tiafoe,7-6(4) 6-4
+200175,Miomir Kecmanovic,106329,Thiago Monteiro,5-7 6-3 6-4
+111513,Laslo Djere,105643,Federico Delbonis,7-6(1) 6-3
+104665,Pablo Andujar,126149,Gianluca Mager,6-4 7-6(5)
+202103,Francisco Cerundolo,105332,Benoit Paire,4-6 6-3 6-1
+105077,Albert Ramos,136440,Dominik Koepfer,7-5 6-4
+111576,Sumit Nagal,106426,Cristian Garin,6-4 6-3
+127760,Lukas Klein,105413,Andrej Martin,6-4 6-3
+144719,Jaume Munar,207680,Facundo Diaz Acosta,7-6(5) 6-3
+126207,Frances Tiafoe,105487,Facundo Bagnis,6-1 6-3
+106329,Thiago Monteiro,106148,Roberto Carballes Baena,6-2 6-3
+105643,Federico Delbonis,207678,Juan Manuel Cerundolo,6-4 7-6(2)
+111513,Laslo Djere,106065,Marco Cecchinato,6-7(4) 6-2 6-3
+104665,Pablo Andujar,106228,Juan Ignacio Londero,6-3 6-0
+126149,Gianluca Mager,106099,Salvatore Caruso,7-6(5) 6-4
+202103,Francisco Cerundolo,105948,Federico Coria,6-4 7-5
+105077,Albert Ramos,208029,Holger Rune,2-6 6-4 6-3
+136440,Dominik Koepfer,202058,Thiago Agustin Tirante,2-6 6-3 6-4
+111576,Sumit Nagal,105311,Joao Sousa,6-2 6-0
+126094,Andrey Rublev,105916,Marton Fucsovics,7-6(4) 6-4
+105916,Marton Fucsovics,106432,Borna Coric,6-4 6-1
+126094,Andrey Rublev,126774,Stefanos Tsitsipas,6-3 7-6(2)
+106432,Borna Coric,105453,Kei Nishikori,7-6(2) 7-6(4)
+105916,Marton Fucsovics,126205,Tommy Paul,6-4 6-3
+126094,Andrey Rublev,104871,Jeremy Chardy,7-6(2) 6-7(2) 6-4
+126774,Stefanos Tsitsipas,111575,Karen Khachanov,4-6 6-3 7-5
+106432,Borna Coric,105583,Dusan Lajovic,6-3 6-2
+105453,Kei Nishikori,200282,Alex De Minaur,6-3 2-6 7-5
+126205,Tommy Paul,122330,Alexander Bublik,6-7(5) 6-3 6-1
+105916,Marton Fucsovics,200221,Alejandro Davidovich Fokina,6-3 6-2
+104871,Jeremy Chardy,105676,David Goffin,7-6(3) 7-6(5)
+126094,Andrey Rublev,104918,Andy Murray,7-5 6-2
+111575,Karen Khachanov,111815,Cameron Norrie,6-2 6-2
+126774,Stefanos Tsitsipas,128034,Hubert Hurkacz,6-4 4-6 7-5
+105583,Dusan Lajovic,106421,Daniil Medvedev,7-6(4) 6-4
+106432,Borna Coric,122298,Botic van de Zandschulp,6-4 7-6(4)
+200282,Alex De Minaur,105357,John Millman,6-1 6-4
+105453,Kei Nishikori,200000,Felix Auger Aliassime,7-6(4) 6-1
+122330,Alexander Bublik,100644,Alexander Zverev,7-5 6-3
+126205,Tommy Paul,132283,Lorenzo Sonego,6-4 7-6(7)
+105916,Marton Fucsovics,124187,Reilly Opelka,7-6(2) 6-7(4) 7-6(4)
+200221,Alejandro Davidovich Fokina,105138,Roberto Bautista Agut,6-2 7-6(3)
+105676,David Goffin,105526,Jan Lennard Struff,6-4 6-0
+104871,Jeremy Chardy,200005,Ugo Humbert,4-6 7-6(5) 7-6(4)
+104918,Andy Murray,104898,Robin Haase,2-6 7-6(2) 6-3
+126094,Andrey Rublev,106218,Marcos Giron,7-6(1) 6-3
+111575,Karen Khachanov,104527,Stan Wawrinka,6-4 7-5
+111815,Cameron Norrie,105932,Nikoloz Basilashvili,6-0 6-3
+128034,Hubert Hurkacz,105173,Adrian Mannarino,6-3 7-6(6)
+126774,Stefanos Tsitsipas,106078,Egor Gerasimov,7-6(4) 7-5
+105932,Nikoloz Basilashvili,105138,Roberto Bautista Agut,7-6(5) 6-2
+105138,Roberto Bautista Agut,126094,Andrey Rublev,6-3 6-3
+105932,Nikoloz Basilashvili,126203,Taylor Fritz,7-6(3) 6-1
+105138,Roberto Bautista Agut,106233,Dominic Thiem,7-6(3) 2-6 6-4
+126094,Andrey Rublev,105916,Marton Fucsovics,6-3 6-3
+126203,Taylor Fritz,133430,Denis Shapovalov,5-7 6-3 7-5
+105932,Nikoloz Basilashvili,103819,Roger Federer,3-6 6-1 7-5
+106233,Dominic Thiem,106234,Aslan Karatsev,6-7(5) 6-3 6-2
+105138,Roberto Bautista Agut,122330,Alexander Bublik,6-4 6-3
+126094,Andrey Rublev,104755,Richard Gasquet,6-3 6-3
+105916,Marton Fucsovics,144750,Lloyd Harris,4-6 7-6(5) 6-2
+126203,Taylor Fritz,105676,David Goffin,6-1 5-7 7-6(9)
+133430,Denis Shapovalov,105577,Vasek Pospisil,7-5 6-4
+105932,Nikoloz Basilashvili,104291,Malek Jaziri,6-2 6-2
+103819,Roger Federer,105554,Daniel Evans,7-6(8) 3-6 7-5
+106234,Aslan Karatsev,122570,Mubarak Shannan Zayid,6-4 6-0
+122330,Alexander Bublik,106368,Ramkumar Ramanathan,6-4 6-2
+105138,Roberto Bautista Agut,124187,Reilly Opelka,4-6 6-3 6-4
+104755,Richard Gasquet,105641,Blaz Rola,6-4 6-4
+105916,Marton Fucsovics,105583,Dusan Lajovic,7-6(3) 6-3
+144750,Lloyd Harris,104527,Stan Wawrinka,7-6(3) 6-7(6) 7-5
+105676,David Goffin,105936,Filip Krajinovic,6-4 6-4
+126203,Taylor Fritz,132283,Lorenzo Sonego,7-6(5) 6-4
+105577,Vasek Pospisil,106331,Christopher O'Connell,6-3 6-4
+104291,Malek Jaziri,105613,Norbert Gombos,6-2 7-5
+105932,Nikoloz Basilashvili,105357,John Millman,2-6 6-4 6-2
+105554,Daniel Evans,104871,Jeremy Chardy,6-4 1-6 6-2
+106426,Cristian Garin,105487,Facundo Bagnis,6-4 6-7(3) 7-5
+106426,Cristian Garin,123755,Daniel Elahi Galan,6-4 6-3
+105487,Facundo Bagnis,105643,Federico Delbonis,7-5 6-3
+106426,Cristian Garin,122669,Juan Pablo Varillas,6-4 6-4
+123755,Daniel Elahi Galan,106148,Roberto Carballes Baena,7-6(8) 6-3
+105487,Facundo Bagnis,111513,Laslo Djere,4-6 6-3 6-3
+105643,Federico Delbonis,208029,Holger Rune,6-3 6-3
+106426,Cristian Garin,126214,Alejandro Tabilo,6-2 6-2
+122669,Juan Pablo Varillas,105948,Federico Coria,6-4 7-6(2)
+123755,Daniel Elahi Galan,104665,Pablo Andujar,6-1 7-6(7)
+106148,Roberto Carballes Baena,207678,Juan Manuel Cerundolo,6-2 6-0
+105487,Facundo Bagnis,126207,Frances Tiafoe,7-6(3) 7-6(2)
+111513,Laslo Djere,105155,Pedro Sousa,5-7 7-5 6-3
+105643,Federico Delbonis,105413,Andrej Martin,6-0 6-3
+208029,Holger Rune,105332,Benoit Paire,6-2 6-3
+126214,Alejandro Tabilo,106075,Jozef Kovalik,6-1 0-6 6-4
+122669,Juan Pablo Varillas,105311,Joao Sousa,6-4 6-1
+105948,Federico Coria,126149,Gianluca Mager,4-6 7-6(4) 7-6(4)
+123755,Daniel Elahi Galan,127157,Daniel Altmaier,7-6(2) 3-6 7-5
+207678,Juan Manuel Cerundolo,106174,Gonzalo Lama,7-5 6-2
+106148,Roberto Carballes Baena,106099,Salvatore Caruso,6-4 7-6(5)
+126207,Frances Tiafoe,111797,Nicolas Jarry,7-6(7) 6-7(7) 7-6(7)
+105487,Facundo Bagnis,106065,Marco Cecchinato,6-7(4) 6-2 6-3
+105155,Pedro Sousa,104919,Leonardo Mayer,6-2 6-4
+105643,Federico Delbonis,144719,Jaume Munar,6-4 6-7(5) 6-4
+105413,Andrej Martin,202103,Francisco Cerundolo,6-1 6-2
+208029,Holger Rune,202104,Sebastian Baez,6-3 6-2
+106421,Daniil Medvedev,105732,Pierre Hugues Herbert,6-4 6-7(4) 6-4
+106421,Daniil Medvedev,105051,Matthew Ebden,6-4 3-0 
+105732,Pierre Hugues Herbert,200005,Ugo Humbert,6-3 6-2
+106421,Daniil Medvedev,206173,Jannik Sinner,6-2 6-4
+105051,Matthew Ebden,111575,Karen Khachanov,4-6 6-4 6-2
+200005,Ugo Humbert,126239,Arthur Rinderknech,4-6 7-5 7-6(4)
+105732,Pierre Hugues Herbert,126774,Stefanos Tsitsipas,6-7(6) 6-4 6-2
+106421,Daniil Medvedev,106078,Egor Gerasimov,6-2 6-4
+206173,Jannik Sinner,200384,Hugo Gaston,6-4 6-1
+111575,Karen Khachanov,111456,Mackenzie McDonald,7-6(4) 6-4
+105051,Matthew Ebden,200325,Emil Ruusuvuori,6-2 6-2
+126239,Arthur Rinderknech,200221,Alejandro Davidovich Fokina,3-6 6-1 6-2
+200005,Ugo Humbert,104542,Jo-Wilfried Tsonga,6-3 6-4
+105732,Pierre Hugues Herbert,111815,Cameron Norrie,6-3 6-4
+126774,Stefanos Tsitsipas,106298,Lucas Pouille,6-2 6-3
+106078,Egor Gerasimov,105870,Yannick Hanfmann,6-2 6-0
+200384,Hugo Gaston,110602,Dennis Novak,3-6 6-4 6-1
+206173,Jannik Sinner,106296,Gregoire Barrere,7-6(3) 6-7(5) 7-5
+111456,Mackenzie McDonald,105882,Stefano Travaglia,7-6(2) 7-6(1)
+105051,Matthew Ebden,126127,Benjamin Bonzi,3-6 7-6(6) 6-3
+200325,Emil Ruusuvuori,106415,Yoshihito Nishioka,6-2 4-2 
+200221,Alejandro Davidovich Fokina,202065,Petros Tsitsipas,6-0 6-2
+126239,Arthur Rinderknech,105062,Mikhail Kukushkin,1-6 6-3 6-2
+104542,Jo-Wilfried Tsonga,103852,Feliciano Lopez,3-6 6-4 7-5
+105732,Pierre Hugues Herbert,105453,Kei Nishikori,6-1 6-4
+111815,Cameron Norrie,106005,Constant Lestienne,6-4 6-7(4) 6-3
+106298,Lucas Pouille,144684,Alex Molcan,7-5 6-3
+100644,Alexander Zverev,126774,Stefanos Tsitsipas,6-4 7-6(3)
+126774,Stefanos Tsitsipas,207518,Lorenzo Musetti,6-1 6-3
+100644,Alexander Zverev,136440,Dominik Koepfer,6-4 7-6(5)
+126774,Stefanos Tsitsipas,200000,Felix Auger Aliassime,7-5 4-6 6-3
+207518,Lorenzo Musetti,105777,Grigor Dimitrov,6-4 7-6(3)
+136440,Dominik Koepfer,111815,Cameron Norrie,7-5 6-4
+100644,Alexander Zverev,134770,Casper Ruud,6-3 6-3
+126774,Stefanos Tsitsipas,104545,John Isner,6-3 6-2
+200000,Felix Auger Aliassime,200624,Sebastian Korda,6-3 6-4
+207518,Lorenzo Musetti,126207,Frances Tiafoe,2-6 6-3 7-6(1)
+105777,Grigor Dimitrov,200175,Miomir Kecmanovic,6-4 6-2
+111815,Cameron Norrie,104926,Fabio Fognini,6-4 6-3
+136440,Dominik Koepfer,105683,Milos Raonic,6-4 6-2
+134770,Casper Ruud,134868,Tallon Griekspoor,4-6 6-3 7-6(3)
+100644,Alexander Zverev,111513,Laslo Djere,6-4 6-3
+126774,Stefanos Tsitsipas,105332,Benoit Paire,6-3 6-1
+104545,John Isner,106099,Salvatore Caruso,6-4 6-3
+200624,Sebastian Korda,105227,Marin Cilic,7-5 6-2
+200000,Felix Auger Aliassime,105815,Tennys Sandgren,6-3 7-6(8)
+207518,Lorenzo Musetti,106043,Diego Schwartzman,6-3 2-6 6-4
+126207,Frances Tiafoe,206909,Brandon Nakashima,6-4 6-7(5) 7-6(5)
+200175,Miomir Kecmanovic,103852,Feliciano Lopez,6-4 6-4
+105777,Grigor Dimitrov,105173,Adrian Mannarino,6-4 3-0 
+104926,Fabio Fognini,105882,Stefano Travaglia,7-5 6-2
+111815,Cameron Norrie,111578,Stefan Kozlov,6-3 6-3
+136440,Dominik Koepfer,126204,Gerardo Lopez Villasenor,6-4 6-2
+105683,Milos Raonic,126205,Tommy Paul,7-6(6) 6-4
+134770,Casper Ruud,123755,Daniel Elahi Galan,6-4 6-1
+134868,Tallon Griekspoor,106045,Denis Kudla,7-6(4) 4-6 6-3
+111513,Laslo Djere,105449,Steve Johnson,6-2 6-3
+100644,Alexander Zverev,207989,Carlos Alcaraz Garfia,6-3 6-1
+106234,Aslan Karatsev,144750,Lloyd Harris,6-3 6-2
+144750,Lloyd Harris,133430,Denis Shapovalov,6-7(5) 6-4 7-6(6)
+106234,Aslan Karatsev,126094,Andrey Rublev,6-2 4-6 6-4
+144750,Lloyd Harris,105453,Kei Nishikori,6-1 3-6 6-3
+133430,Denis Shapovalov,104871,Jeremy Chardy,7-5 6-4
+106234,Aslan Karatsev,206173,Jannik Sinner,6-7(5) 6-3 6-2
+126094,Andrey Rublev,105916,Marton Fucsovics,7-5 6-2
+144750,Lloyd Harris,105936,Filip Krajinovic,7-6(5) 6-4
+105453,Kei Nishikori,105379,Aljaz Bedene,6-4 6-4
+133430,Denis Shapovalov,128034,Hubert Hurkacz,6-4 6-3
+104871,Jeremy Chardy,111575,Karen Khachanov,6-7(3) 6-4 6-4
+106234,Aslan Karatsev,132283,Lorenzo Sonego,3-6 6-3 6-4
+206173,Jannik Sinner,105138,Roberto Bautista Agut,6-4 3-6 7-5
+105916,Marton Fucsovics,105583,Dusan Lajovic,6-1 4-6 6-4
+126094,Andrey Rublev,126203,Taylor Fritz,6-3 6-1
+144750,Lloyd Harris,106233,Dominic Thiem,6-3 6-4
+105936,Filip Krajinovic,200221,Alejandro Davidovich Fokina,7-5 6-4
+105379,Aljaz Bedene,105841,Lorenzo Giustino,6-4 6-3
+105453,Kei Nishikori,105676,David Goffin,6-3 7-6(3)
+133430,Denis Shapovalov,105526,Jan Lennard Struff,6-1 6-3
+128034,Hubert Hurkacz,104755,Richard Gasquet,6-3 6-4
+104871,Jeremy Chardy,200282,Alex De Minaur,2-6 6-3 6-4
+111575,Karen Khachanov,200615,Alexei Popyrin,6-4 3-6 7-6(4)
+132283,Lorenzo Sonego,126523,Bernabe Zapata Miralles,6-2 6-2
+106234,Aslan Karatsev,105554,Daniel Evans,6-4 4-6 6-4
+206173,Jannik Sinner,122330,Alexander Bublik,2-6 7-6(2) 6-4
+105138,Roberto Bautista Agut,105051,Matthew Ebden,4-1 
+105916,Marton Fucsovics,105807,Pablo Carreno Busta,6-7(5) 6-3 6-2
+105583,Dusan Lajovic,104291,Malek Jaziri,7-5 6-2
+126203,Taylor Fritz,105932,Nikoloz Basilashvili,4-6 6-3 7-6(4)
+126094,Andrey Rublev,200325,Emil Ruusuvuori,6-4 6-4
+144750,Lloyd Harris,106331,Christopher O'Connell,6-7(5) 6-4 6-1
+200221,Alejandro Davidovich Fokina,105430,Radu Albot,6-4 6-4
+105379,Aljaz Bedene,106026,Yuki Bhambri,3-6 6-1 6-4
+105453,Kei Nishikori,124187,Reilly Opelka,3-6 6-3 6-4
+105526,Jan Lennard Struff,105062,Mikhail Kukushkin,6-3 6-2
+104755,Richard Gasquet,106065,Marco Cecchinato,6-4 6-2
+104871,Jeremy Chardy,105077,Albert Ramos,6-3 3-6 6-4
+200615,Alexei Popyrin,110602,Dennis Novak,7-6(3) 7-5
+126523,Bernabe Zapata Miralles,105357,John Millman,6-4 6-4
+106234,Aslan Karatsev,106078,Egor Gerasimov,6-4 6-4
+122330,Alexander Bublik,106415,Yoshihito Nishioka,6-4 7-6(4)
+105916,Marton Fucsovics,105577,Vasek Pospisil,2-6 7-5 6-4
+104291,Malek Jaziri,104542,Jo-Wilfried Tsonga,3-3 
+200325,Emil Ruusuvuori,111442,Jordan Thompson,6-3 7-6(5)
+128034,Hubert Hurkacz,206173,Jannik Sinner,7-6(4) 6-4
+206173,Jannik Sinner,105138,Roberto Bautista Agut,5-7 6-4 6-4
+128034,Hubert Hurkacz,126094,Andrey Rublev,6-3 6-4
+105138,Roberto Bautista Agut,106421,Daniil Medvedev,6-4 6-2
+206173,Jannik Sinner,122330,Alexander Bublik,7-6(5) 6-4
+126094,Andrey Rublev,200624,Sebastian Korda,7-5 7-6(7)
+128034,Hubert Hurkacz,126774,Stefanos Tsitsipas,2-6 6-3 6-4
+106421,Daniil Medvedev,126207,Frances Tiafoe,6-4 6-3
+105138,Roberto Bautista Agut,104545,John Isner,6-3 4-6 7-6(7)
+206173,Jannik Sinner,200325,Emil Ruusuvuori,6-3 6-2
+122330,Alexander Bublik,126203,Taylor Fritz,6-7(5) 6-3 6-4
+200624,Sebastian Korda,106043,Diego Schwartzman,6-3 4-6 7-5
+126094,Andrey Rublev,105227,Marin Cilic,6-4 6-4
+128034,Hubert Hurkacz,105683,Milos Raonic,4-6 6-3 7-6(4)
+126774,Stefanos Tsitsipas,132283,Lorenzo Sonego,6-2 7-6(2)
+106421,Daniil Medvedev,200615,Alexei Popyrin,7-6(3) 6-7(7) 6-4
+126207,Frances Tiafoe,105583,Dusan Lajovic,1-6 7-5 6-3
+104545,John Isner,200000,Felix Auger Aliassime,7-6(5) 7-6(5)
+105138,Roberto Bautista Agut,105526,Jan Lennard Struff,4-6 6-3 6-2
+200325,Emil Ruusuvuori,144707,Mikael Ymer,4-6 6-1 7-5
+206173,Jannik Sinner,111575,Karen Khachanov,4-6 7-6(2) 6-4
+126203,Taylor Fritz,111815,Cameron Norrie,6-4 3-6 6-1
+122330,Alexander Bublik,105902,James Duckworth,6-4 6-4
+106043,Diego Schwartzman,105173,Adrian Mannarino,6-1 6-4
+200624,Sebastian Korda,106234,Aslan Karatsev,6-3 6-0
+105227,Marin Cilic,207518,Lorenzo Musetti,6-3 6-4
+126094,Andrey Rublev,105916,Marton Fucsovics,6-2 6-1
+128034,Hubert Hurkacz,133430,Denis Shapovalov,6-3 7-6(6)
+105683,Milos Raonic,200005,Ugo Humbert,6-4 7-5
+132283,Lorenzo Sonego,123755,Daniel Elahi Galan,7-6(6) 6-3
+126774,Stefanos Tsitsipas,105453,Kei Nishikori,6-3 3-6 6-1
+106421,Daniil Medvedev,104229,Yen Hsun Lu,6-2 6-2
+200615,Alexei Popyrin,124187,Reilly Opelka,6-4 6-2
+126207,Frances Tiafoe,105554,Daniel Evans,6-7(5) 6-3 6-3
+105583,Dusan Lajovic,124014,Ernesto Escobedo,6-2 6-3
+200000,Felix Auger Aliassime,105732,Pierre Hugues Herbert,6-4 6-4
+104545,John Isner,111456,Mackenzie McDonald,2-6 6-3 7-5
+105526,Jan Lennard Struff,105575,Ricardas Berankis,6-3 6-4
+105138,Roberto Bautista Agut,144750,Lloyd Harris,6-3 6-3
+200325,Emil Ruusuvuori,100644,Alexander Zverev,1-6 6-3 6-1
+144707,Mikael Ymer,105932,Nikoloz Basilashvili,6-3 4-6 6-4
+206173,Jannik Sinner,200384,Hugo Gaston,6-2 6-2
+111575,Karen Khachanov,105870,Yannick Hanfmann,6-3 6-2
+111815,Cameron Norrie,105777,Grigor Dimitrov,7-5 7-5
+126203,Taylor Fritz,106218,Marcos Giron,6-2 6-2
+122330,Alexander Bublik,111513,Laslo Djere,6-3 6-4
+105902,James Duckworth,105676,David Goffin,6-3 6-1
+106043,Diego Schwartzman,106034,Yasutaka Uchiyama,6-3 6-3
+105173,Adrian Mannarino,200175,Miomir Kecmanovic,6-3 6-4
+106234,Aslan Karatsev,105062,Mikhail Kukushkin,6-4 6-3
+200624,Sebastian Korda,104926,Fabio Fognini,1-6 6-4 6-2
+105227,Marin Cilic,106426,Cristian Garin,3-6 7-5 7-6(5)
+207518,Lorenzo Musetti,105332,Benoit Paire,6-3 6-3
+105916,Marton Fucsovics,106423,Thanasi Kokkinakis,7-6(3) 6-7(4) 6-4
+126094,Andrey Rublev,105815,Tennys Sandgren,6-1 6-2
+133430,Denis Shapovalov,125802,Ilya Ivashka,6-7(5) 6-4 6-4
+128034,Hubert Hurkacz,106045,Denis Kudla,7-6(5) 6-4
+200005,Ugo Humbert,105311,Joao Sousa,6-1 6-4
+105683,Milos Raonic,111442,Jordan Thompson,6-2 6-1
+123755,Daniel Elahi Galan,200282,Alex De Minaur,4-6 6-3 6-4
+132283,Lorenzo Sonego,106216,Bjorn Fratangelo,6-4 7-6(5)
+105453,Kei Nishikori,105379,Aljaz Bedene,7-6(6) 5-7 6-4
+126774,Stefanos Tsitsipas,106000,Damir Dzumhur,6-1 6-4
+104229,Yen Hsun Lu,105023,Sam Querrey,6-3 6-4
+200615,Alexei Popyrin,103852,Feliciano Lopez,6-4 7-6(4)
+126207,Frances Tiafoe,105882,Stefano Travaglia,5-7 6-4 6-2
+124014,Ernesto Escobedo,103893,Paolo Lorenzi,6-3 6-2
+105732,Pierre Hugues Herbert,105155,Pedro Sousa,6-1 6-3
+111456,Mackenzie McDonald,105577,Vasek Pospisil,6-3 4-6 6-3
+105575,Ricardas Berankis,105943,Federico Gaio,7-6(4) 6-2
+144750,Lloyd Harris,207182,Emilio Nava,6-4 7-6(7)
+200325,Emil Ruusuvuori,207989,Carlos Alcaraz Garfia,6-4 2-6 7-5
+144707,Mikael Ymer,126214,Alejandro Tabilo,6-3 6-1
+200384,Hugo Gaston,136440,Dominik Koepfer,6-1 6-4
+105870,Yannick Hanfmann,105449,Steve Johnson,7-5 6-2
+111815,Cameron Norrie,106415,Yoshihito Nishioka,6-1 3-6 7-5
+106218,Marcos Giron,126205,Tommy Paul,7-6(5) 6-4
+111513,Laslo Djere,106210,Jiri Vesely,6-3 5-7 6-1
+105902,James Duckworth,104999,Mischa Zverev,6-2 4-6 6-4
+106034,Yasutaka Uchiyama,106099,Salvatore Caruso,6-3 6-4
+200175,Miomir Kecmanovic,106281,Liam Broady,7-5 6-7(5) 6-1
+105062,Mikhail Kukushkin,207733,Jack Draper,7-5 0-0 
+200624,Sebastian Korda,105430,Radu Albot,6-3 6-0
+105227,Marin Cilic,105948,Federico Coria,6-3 2-6 6-4
+207518,Lorenzo Musetti,111581,Michael Mmoh,6-4 6-4
+106423,Thanasi Kokkinakis,208278,Shintaro Mochizuki,6-3 6-3
+105815,Tennys Sandgren,124079,Pedro Martinez,6-4 2-0 
+125802,Ilya Ivashka,126952,Soon Woo Kwon,7-6(4) 6-7(4) 7-6(3)
+106045,Denis Kudla,104871,Jeremy Chardy,3-6 6-3 6-4
+105311,Joao Sousa,106331,Christopher O'Connell,7-6(6) 6-7(8) 7-5
+111442,Jordan Thompson,105643,Federico Delbonis,7-6(6) 6-4
+123755,Daniel Elahi Galan,205734,Thiago Seyboth Wild,6-3 6-4
+106216,Bjorn Fratangelo,104269,Fernando Verdasco,6-4 6-4
+105379,Aljaz Bedene,105341,Thomas Fabbiano,7-6(5) 1-6 6-3
+106000,Damir Dzumhur,104731,Kevin Anderson,7-6(6) 7-5
+132283,Lorenzo Sonego,111513,Laslo Djere,2-6 7-6(5) 6-4
+111513,Laslo Djere,105932,Nikoloz Basilashvili,6-2 6-0
+132283,Lorenzo Sonego,126203,Taylor Fritz,6-4 5-7 6-1
+111513,Laslo Djere,207518,Lorenzo Musetti,6-4 4-6 6-2
+105932,Nikoloz Basilashvili,105526,Jan Lennard Struff,7-5 4-6 6-3
+132283,Lorenzo Sonego,105870,Yannick Hanfmann,3-6 7-6(6) 6-3
+126203,Taylor Fritz,105379,Aljaz Bedene,6-3 6-4
+207518,Lorenzo Musetti,105554,Daniel Evans,6-1 1-6 7-6(8)
+111513,Laslo Djere,105357,John Millman,6-3 6-3
+105932,Nikoloz Basilashvili,106075,Jozef Kovalik,4-6 6-4 7-5
+105526,Jan Lennard Struff,106281,Liam Broady,6-4 6-2
+105870,Yannick Hanfmann,106065,Marco Cecchinato,7-5 6-1
+132283,Lorenzo Sonego,104468,Gilles Simon,6-4 6-1
+105379,Aljaz Bedene,106078,Egor Gerasimov,6-4 7-6(5)
+126203,Taylor Fritz,105413,Andrej Martin,6-2 7-6(4)
+207518,Lorenzo Musetti,110602,Dennis Novak,6-0 6-1
+111513,Laslo Djere,105943,Federico Gaio,6-4 6-2
+105357,John Millman,105948,Federico Coria,7-6(5) 3-6 6-3
+106075,Jozef Kovalik,111576,Sumit Nagal,3-6 6-1 6-3
+106281,Liam Broady,144817,Marc Andrea Huesler,6-1 6-3
+105526,Jan Lennard Struff,105311,Joao Sousa,1-6 6-1 7-5
+105870,Yannick Hanfmann,126205,Tommy Paul,7-6(8) 5-7 6-3
+106065,Marco Cecchinato,105341,Thomas Fabbiano,6-4 4-6 6-3
+104468,Gilles Simon,105882,Stefano Travaglia,1-6 6-3 6-4
+106078,Egor Gerasimov,105550,Guido Pella,6-4 6-0
+105379,Aljaz Bedene,206748,Giulio Zeppieri,1-6 7-5 7-6(3)
+105413,Andrej Martin,106210,Jiri Vesely,6-4 2-6 6-1
+105807,Pablo Carreno Busta,144719,Jaume Munar,6-1 2-6 6-4
+105807,Pablo Carreno Busta,105077,Albert Ramos,6-1 3-6 7-6(5)
+144719,Jaume Munar,207989,Carlos Alcaraz Garfia,7-6(4) 6-4
+105807,Pablo Carreno Busta,126952,Soon Woo Kwon,6-4 6-0
+105077,Albert Ramos,105613,Norbert Gombos,6-7(4) 7-5 6-4
+207989,Carlos Alcaraz Garfia,134770,Casper Ruud,6-2 6-4
+144719,Jaume Munar,125802,Ilya Ivashka,6-7(5) 6-4 6-4
+105807,Pablo Carreno Busta,106408,Mario Vilella Martinez,7-6(2) 6-3
+126952,Soon Woo Kwon,105487,Facundo Bagnis,6-1 6-3
+105077,Albert Ramos,105575,Ricardas Berankis,6-3 4-6 6-3
+105613,Norbert Gombos,105643,Federico Delbonis,5-7 7-6(4) 7-6(1)
+207989,Carlos Alcaraz Garfia,103852,Feliciano Lopez,4-6 6-2 6-4
+134770,Casper Ruud,126149,Gianluca Mager,6-3 6-2
+125802,Ilya Ivashka,200221,Alejandro Davidovich Fokina,6-1 6-3
+144719,Jaume Munar,104926,Fabio Fognini,6-2 6-1
+106408,Mario Vilella Martinez,126523,Bernabe Zapata Miralles,6-2 6-3
+105487,Facundo Bagnis,202103,Francisco Cerundolo,6-3 7-6(2)
+126952,Soon Woo Kwon,208029,Holger Rune,6-3 3-6 7-6(4)
+105575,Ricardas Berankis,106298,Lucas Pouille,6-4 6-7(5) 7-5
+105613,Norbert Gombos,106228,Juan Ignacio Londero,6-7(3) 6-1 6-3
+105643,Federico Delbonis,106148,Roberto Carballes Baena,7-5 6-1
+103852,Feliciano Lopez,106121,Taro Daniel,6-4 6-4
+207989,Carlos Alcaraz Garfia,110748,Nikola Milojevic,7-6(3) 6-3
+126149,Gianluca Mager,105062,Mikhail Kukushkin,7-5 6-3
+200221,Alejandro Davidovich Fokina,106000,Damir Dzumhur,6-7(1) 6-2 6-2
+125802,Ilya Ivashka,124079,Pedro Martinez,6-3 7-6(2)
+144719,Jaume Munar,105967,Henri Laaksonen,6-4 6-1
+126774,Stefanos Tsitsipas,126094,Andrey Rublev,6-3 6-3
+126774,Stefanos Tsitsipas,105554,Daniel Evans,6-2 6-1
+126094,Andrey Rublev,134770,Casper Ruud,6-3 7-5
+105554,Daniel Evans,105676,David Goffin,5-7 6-3 6-4
+126774,Stefanos Tsitsipas,200221,Alejandro Davidovich Fokina,7-5 0-0 
+126094,Andrey Rublev,104745,Rafael Nadal,6-2 4-6 6-2
+134770,Casper Ruud,104926,Fabio Fognini,6-4 6-3
+105554,Daniel Evans,104925,Novak Djokovic,6-4 7-5
+105676,David Goffin,100644,Alexander Zverev,6-4 7-6(7)
+126774,Stefanos Tsitsipas,106426,Cristian Garin,6-3 6-4
+200221,Alejandro Davidovich Fokina,106298,Lucas Pouille,6-2 7-6(2)
+126094,Andrey Rublev,105138,Roberto Bautista Agut,7-6(2) 5-7 6-3
+104745,Rafael Nadal,105777,Grigor Dimitrov,6-1 6-1
+134770,Casper Ruud,105807,Pablo Carreno Busta,7-6(4) 5-7 7-5
+104926,Fabio Fognini,105936,Filip Krajinovic,6-2 7-6(1)
+104925,Novak Djokovic,206173,Jannik Sinner,6-4 6-2
+105554,Daniel Evans,128034,Hubert Hurkacz,6-4 6-1
+105676,David Goffin,106065,Marco Cecchinato,6-4 6-0
+100644,Alexander Zverev,132283,Lorenzo Sonego,6-3 6-3
+126774,Stefanos Tsitsipas,106234,Aslan Karatsev,6-3 6-4
+106426,Cristian Garin,105357,John Millman,6-1 6-4
+106298,Lucas Pouille,200615,Alexei Popyrin,7-5 2-6 6-3
+200221,Alejandro Davidovich Fokina,126610,Matteo Berrettini,7-5 6-3
+126094,Andrey Rublev,106099,Salvatore Caruso,6-3 6-2
+105138,Roberto Bautista Agut,126205,Tommy Paul,6-3 6-4
+105777,Grigor Dimitrov,104871,Jeremy Chardy,7-6(3) 6-4
+104745,Rafael Nadal,105643,Federico Delbonis,6-1 6-2
+134770,Casper Ruud,106043,Diego Schwartzman,6-3 6-3
+105807,Pablo Carreno Busta,111575,Karen Khachanov,6-2 6-3
+104926,Fabio Fognini,111442,Jordan Thompson,6-3 6-3
+105936,Filip Krajinovic,106228,Juan Ignacio Londero,6-0 6-3
+206173,Jannik Sinner,105077,Albert Ramos,6-3 6-4
+105554,Daniel Evans,105583,Dusan Lajovic,6-3 6-7(11) 6-2
+128034,Hubert Hurkacz,105341,Thomas Fabbiano,6-3 3-6 6-3
+105676,David Goffin,105227,Marin Cilic,6-4 3-6 6-0
+106065,Marco Cecchinato,136440,Dominik Koepfer,6-4 6-3
+132283,Lorenzo Sonego,105916,Marton Fucsovics,6-3 6-4
+106234,Aslan Karatsev,207518,Lorenzo Musetti,6-3 6-4
+105357,John Millman,200005,Ugo Humbert,6-3 6-3
+106426,Cristian Garin,200000,Felix Auger Aliassime,7-6(3) 6-1
+200615,Alexei Popyrin,104665,Pablo Andujar,0-6 6-2 7-6(3)
+106298,Lucas Pouille,105550,Guido Pella,6-3 6-4
+200221,Alejandro Davidovich Fokina,200282,Alex De Minaur,6-4 7-6(3)
+106099,Salvatore Caruso,200031,Lucas Catarina,6-7(3) 7-6(5) 6-3
+126205,Tommy Paul,124079,Pedro Martinez,4-1 
+105138,Roberto Bautista Agut,126203,Taylor Fritz,6-2 7-5
+105777,Grigor Dimitrov,105526,Jan Lennard Struff,6-3 6-4
+104871,Jeremy Chardy,122330,Alexander Bublik,6-4 0-6 7-5
+105643,Federico Delbonis,105173,Adrian Mannarino,7-5 6-1
+134770,Casper Ruud,208029,Holger Rune,6-2 6-1
+111575,Karen Khachanov,111513,Laslo Djere,6-4 6-1
+105807,Pablo Carreno Busta,105882,Stefano Travaglia,7-5 7-6(4)
+104926,Fabio Fognini,200175,Miomir Kecmanovic,6-2 7-5
+111442,Jordan Thompson,105332,Benoit Paire,6-4 6-7(3) 7-6(5)
+105936,Filip Krajinovic,105932,Nikoloz Basilashvili,6-1 2-0 
+104745,Rafael Nadal,126774,Stefanos Tsitsipas,6-4 6-7(6) 7-5
+104745,Rafael Nadal,105807,Pablo Carreno Busta,6-3 6-2
+126774,Stefanos Tsitsipas,206173,Jannik Sinner,6-3 6-3
+104745,Rafael Nadal,111815,Cameron Norrie,6-1 6-4
+105807,Pablo Carreno Busta,106043,Diego Schwartzman,6-4 3-6 7-5
+206173,Jannik Sinner,126094,Andrey Rublev,6-2 7-6(6)
+126774,Stefanos Tsitsipas,200000,Felix Auger Aliassime,6-3 6-3
+104745,Rafael Nadal,105453,Kei Nishikori,6-0 2-6 6-2
+111815,Cameron Norrie,105676,David Goffin,6-0 3-5 
+106043,Diego Schwartzman,144895,Corentin Moutet,6-4 6-2
+105807,Pablo Carreno Busta,126523,Bernabe Zapata Miralles,6-3 6-4
+206173,Jannik Sinner,105138,Roberto Bautista Agut,7-6(9) 6-2
+126094,Andrey Rublev,105077,Albert Ramos,6-4 6-7(4) 6-4
+200000,Felix Auger Aliassime,133430,Denis Shapovalov,6-2 6-3
+126774,Stefanos Tsitsipas,200282,Alex De Minaur,7-5 6-3
+104745,Rafael Nadal,125802,Ilya Ivashka,3-6 6-2 6-4
+105453,Kei Nishikori,106426,Cristian Garin,7-6(5) 4-6 6-1
+111815,Cameron Norrie,111575,Karen Khachanov,6-4 3-6 6-3
+105676,David Goffin,105732,Pierre Hugues Herbert,6-2 6-4
+106043,Diego Schwartzman,126207,Frances Tiafoe,3-6 7-5 6-1
+144895,Corentin Moutet,105554,Daniel Evans,6-4 5-7 6-3
+126523,Bernabe Zapata Miralles,104926,Fabio Fognini,6-0 4-4
+105807,Pablo Carreno Busta,111442,Jordan Thompson,6-4 6-0
+105138,Roberto Bautista Agut,104665,Pablo Andujar,6-4 6-0
+206173,Jannik Sinner,106078,Egor Gerasimov,6-3 6-2
+105077,Albert Ramos,105173,Adrian Mannarino,6-4 6-4
+126094,Andrey Rublev,105943,Federico Gaio,6-4 6-3
+133430,Denis Shapovalov,104871,Jeremy Chardy,6-3 7-5
+200000,Felix Auger Aliassime,207518,Lorenzo Musetti,4-6 6-3 6-0
+200282,Alex De Minaur,122330,Alexander Bublik,7-6(3) 6-2
+126774,Stefanos Tsitsipas,144719,Jaume Munar,6-0 6-2
+125802,Ilya Ivashka,134868,Tallon Griekspoor,6-3 6-1
+105453,Kei Nishikori,105550,Guido Pella,4-6 7-6(4) 6-2
+111815,Cameron Norrie,106099,Salvatore Caruso,6-1 6-2
+105732,Pierre Hugues Herbert,111576,Sumit Nagal,7-5 6-0
+126207,Frances Tiafoe,207989,Carlos Alcaraz Garfia,6-4 7-6(2)
+144895,Corentin Moutet,136440,Dominik Koepfer,7-5 6-2
+126523,Bernabe Zapata Miralles,105723,Andrey Kuznetsov,6-7(4) 7-5 6-1
+111442,Jordan Thompson,104755,Richard Gasquet,7-6(5) 4-6 7-6(3)
+104665,Pablo Andujar,104468,Gilles Simon,6-1 3-6 6-3
+106078,Egor Gerasimov,104542,Jo-Wilfried Tsonga,7-5 6-1
+105077,Albert Ramos,208029,Holger Rune,6-7(2) 6-1 7-6(2)
+105943,Federico Gaio,105332,Benoit Paire,7-5 6-3
+104871,Jeremy Chardy,105932,Nikoloz Basilashvili,6-4 3-6 6-3
+207518,Lorenzo Musetti,103852,Feliciano Lopez,6-4 6-3
+122330,Alexander Bublik,200221,Alejandro Davidovich Fokina,2-6 7-5 6-2
+144719,Jaume Munar,106329,Thiago Monteiro,6-3 7-5
+126610,Matteo Berrettini,106234,Aslan Karatsev,6-1 3-6 7-6(0)
+106234,Aslan Karatsev,104925,Novak Djokovic,7-5 4-6 6-4
+126610,Matteo Berrettini,106121,Taro Daniel,6-1 6-7(5) 6-0
+104925,Novak Djokovic,200175,Miomir Kecmanovic,6-1 6-3
+106234,Aslan Karatsev,126149,Gianluca Mager,6-3 6-4
+106121,Taro Daniel,105643,Federico Delbonis,4-6 6-1 7-5
+126610,Matteo Berrettini,105936,Filip Krajinovic,6-4 6-4
+104925,Novak Djokovic,126952,Soon Woo Kwon,6-1 6-3
+200175,Miomir Kecmanovic,126239,Arthur Rinderknech,6-3 3-6 6-3
+106234,Aslan Karatsev,105379,Aljaz Bedene,6-3 4-6 7-6(5)
+126149,Gianluca Mager,200615,Alexei Popyrin,7-5 6-2
+106121,Taro Daniel,105357,John Millman,3-6 6-2 6-3
+105643,Federico Delbonis,105583,Dusan Lajovic,6-3 2-6 6-4
+105936,Filip Krajinovic,110748,Nikola Milojevic,6-1 6-1
+126610,Matteo Berrettini,106065,Marco Cecchinato,6-4 6-3
+126952,Soon Woo Kwon,106148,Roberto Carballes Baena,6-3 7-5
+126239,Arthur Rinderknech,106228,Juan Ignacio Londero,6-1 7-5
+200175,Miomir Kecmanovic,105487,Facundo Bagnis,7-6(5) 7-6(4)
+105379,Aljaz Bedene,200624,Sebastian Korda,7-5 1-6 7-6(5)
+200615,Alexei Popyrin,202103,Francisco Cerundolo,4-6 7-6(5) 7-6(6)
+126149,Gianluca Mager,111513,Laslo Djere,6-4 6-3
+105357,John Millman,105905,Danilo Petrovic,7-5 6-4
+106121,Taro Daniel,105311,Joao Sousa,7-5 6-3
+105643,Federico Delbonis,105575,Ricardas Berankis,6-4 3-6 6-1
+105936,Filip Krajinovic,105882,Stefano Travaglia,7-5 5-7 6-3
+110748,Nikola Milojevic,105948,Federico Coria,6-4 6-0
+106065,Marco Cecchinato,104678,Viktor Troicki,6-1 6-4
